@@ -116,12 +116,15 @@ curl -X POST http://localhost:8080/api/v1/calculate \
 iternal/application
 - `application.go` — файл, содержащий код для HTTP-сервера и обработки запросов
 - `app_test.go` — файл с тестами для CalcHandler
+
 pkg/calculation
 - `calculation.go` — файл, содержащий логику для вычислений выражений
 - `errors.go` — ошибки для calculation.go
 - `calc_test.go` — тесты для калькулятора
+
 cmd
 - `main.go` — файл для запуска сервера
+
 
 - `go.mod`  — файлы с зависимостями
 
