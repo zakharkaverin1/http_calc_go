@@ -31,7 +31,14 @@
  git clone https://github.com/zakharkaverin1/http_calc_go
 ```
 
-### Шаг 2: Запуск приложения
+### Шаг 2
+
+
+```bash
+ cd http_calculate_go
+```
+
+### Шаг 3: Запуск приложения
 
 Для запуска сервера выполните команду:
 
