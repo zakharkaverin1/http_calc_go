@@ -28,7 +28,7 @@
 Импортуируем модуль с гитхаба:
 
 ```bash
-git init mod github.com/zakharkaverin1/http_calc_go
+ git clone https://github.com/zakharkaverin1/http_calc_go
 ```
 
 ### Шаг 2: Запуск приложения
