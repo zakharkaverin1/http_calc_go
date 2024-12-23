@@ -35,7 +35,7 @@
 
 
 ```bash
- cd http_calculate_go
+cd http_calculate_go\main.go
 ```
 
 ### Шаг 3: Запуск приложения
